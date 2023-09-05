@@ -527,3 +527,29 @@ footer {
   }
 }
 
+.success {
+  height: 850px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.text-success {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "DM Sans";
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 51px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.btn-success {
+  width: 100%;
+  display: flex;
+}

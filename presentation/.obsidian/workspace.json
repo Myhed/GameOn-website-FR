@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "7c904af8ef2e6da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bd2216371e0d383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d045cad4c7b4a5a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "154027f650b7ab36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a95029f2fb0008c6",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "07afcc6d40f16211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54664e8c08f9c4d7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feb65a6a6709466e",
+    "type": "split",
+    "children": [
+      {
+        "id": "60ee95759ae56666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3347b85f86e5eac6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a73e8ffa50fd8691",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "877e6a6819a51b9e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40415ea4054a0195",
+    "type": "split",
+    "children": [
+      {
+        "id": "e18208a62ecb061a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3b8f82a0b9ccd72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9021a858bfd4e280",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7461c3fc3b34b86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "369a5f732f890738",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "54664e8c08f9c4d7",
+  "lastOpenFiles": [
+    "Presentation.md"
+  ]
+}
